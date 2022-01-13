@@ -295,6 +295,9 @@ header ul {
 	padding-left: 38px;
 	margin: 10px;
 	border: none;
+	font-family: "Open Sans";
+	font-size: 16px;
+	font-weight: normal;
 }
 .subscribe {
 	width: 217px;
@@ -336,36 +339,39 @@ header ul {
 	
 }
 .name {
-	display: flex;
 	width: 292px;
 	height: 71px;
 	background-color: rgba(0, 0, 0, 0.1);
 	color: #000;
 	padding-left: 50px;
-	align-items: center;
 	border: none;
+	font-family: "Open Sans";
+	font-size: 16px;
+	font-weight: normal;
 }
 .mail {
-	display: flex;
 	width: 292px;
 	height: 71px;
 	background-color: rgba(0, 0, 0, 0.1);
 	color: #000;
 	padding-left: 50px;
-	align-items: center;
 	border: none;
+	font-family: "Open Sans";
+	font-size: 16px;
+	font-weight: normal;
 }
 .message {
-	display: flex;
 	width: 684px;
 	height: 252px;
 	background-color: rgba(0, 0, 0, 0.1);
 	color: #000;
-	justify-content: space-between;
 	padding-left: 50px;
 	padding-top: 32px;
 	margin: 28px 0;
 	border: none;
+	font-family: "Open Sans";
+	font-size: 16px;
+	font-weight: normal;
 }
 .send {
 	display: flex;
